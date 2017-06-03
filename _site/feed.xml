@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-31T22:53:16+13:00</updated><id>http://localhost:4000/</id><title type="html">Z Wang</title><subtitle></subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-30T13:59:39+13:00</published><updated>2017-03-30T13:59:39+13:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-06T14:06:10+12:00</updated><id>http://localhost:4000/</id><title type="html">Z Wang</title><subtitle></subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-30T13:59:39+13:00</published><updated>2017-03-30T13:59:39+13:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -10,4 +10,66 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Dates and times in Swift 3</title><link href="http://localhost:4000/dates-and-times-in-swift-3" rel="alternate" type="text/html" title="Dates and times in Swift 3" /><published>2017-03-30T13:59:39+13:00</published><updated>2017-03-30T13:59:39+13:00</updated><id>http://localhost:4000/dates-and-times-in-swift-3</id><content type="html" xml:base="http://localhost:4000/dates-and-times-in-swift-3">&lt;p&gt;&lt;img src=&quot;/Sign in.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;head&gt;
+&lt;title&gt;Sign in&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;outline text=&quot;Sign in&quot;&gt;&lt;/outline&gt;
+&lt;outline text=&quot;Login/Register&quot;&gt;&lt;/outline&gt;
+&lt;outline text=&quot;Create Account&quot;&gt;&lt;outline text=&quot;Login Email**&quot;&gt;&lt;outline text=&quot;textfield&quot;&gt;&lt;outline text=&quot;backend validation&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;Use login email as contact email? &quot;&gt;&lt;outline text=&quot;Button&quot;&gt;&lt;outline text=&quot;Contact Email&quot;&gt;&lt;outline text=&quot;textfield&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;Contact Email = login&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;First Name**&quot;&gt;&lt;outline text=&quot;textfield&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;Last Name**&quot;&gt;&lt;outline text=&quot;textfield&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;Password**&quot;&gt;&lt;outline text=&quot;textfield&quot;&gt;&lt;outline text=&quot;format validation&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;Agreement**&quot;&gt;&lt;outline text=&quot;text&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;Continue with Facebook&quot;&gt;&lt;/outline&gt;
+&lt;/outline&gt;
+&lt;outline text=&quot;&quot;&gt;&lt;/outline&gt;
+&lt;outline text=&quot;Continue with Facebook&quot;&gt;&lt;/outline&gt;
+&lt;outline text=&quot;Continue with Google&quot;&gt;&lt;/outline&gt;
+&lt;/body&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Swift Comments</title><link href="http://localhost:4000/swift-comment" rel="alternate" type="text/html" title="Swift Comments" /><published>2016-11-07T13:59:39+13:00</published><updated>2016-11-07T13:59:39+13:00</updated><id>http://localhost:4000/swift-comment</id><content type="html" xml:base="http://localhost:4000/swift-comment">&lt;h2 id=&quot;key-words&quot;&gt;Key Words&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TODO&lt;/li&gt;
+  &lt;li&gt;MARK&lt;/li&gt;
+  &lt;li&gt;FIXME&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Key Words</summary></entry><entry><title type="html">Passing Data Between ViewControllers</title><link href="http://localhost:4000/passing-data-between-viewcontroller" rel="alternate" type="text/html" title="Passing Data Between ViewControllers" /><published>2016-03-01T13:59:39+13:00</published><updated>2016-03-01T13:59:39+13:00</updated><id>http://localhost:4000/passing-data-between-viewcontroller</id><content type="html" xml:base="http://localhost:4000/passing-data-between-viewcontroller">&lt;h3 id=&quot;key-words&quot;&gt;Key Words&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Block&lt;/li&gt;
+  &lt;li&gt;NSNOtification&lt;/li&gt;
+  &lt;li&gt;Delegate&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Key Words</summary></entry><entry><title type="html">Scrapy</title><link href="http://localhost:4000/scrapy" rel="alternate" type="text/html" title="Scrapy" /><published>2016-03-01T13:59:39+13:00</published><updated>2016-03-01T13:59:39+13:00</updated><id>http://localhost:4000/scrapy</id><content type="html" xml:base="http://localhost:4000/scrapy">&lt;h3 id=&quot;key-words&quot;&gt;Key Words&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TODO&lt;/li&gt;
+  &lt;li&gt;MARK&lt;/li&gt;
+  &lt;li&gt;FIXME&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Key Words</summary></entry><entry><title type="html">Trademe Flatmate Wanted</title><link href="http://localhost:4000/trademe-flatmate-wanted" rel="alternate" type="text/html" title="Trademe Flatmate Wanted" /><published>2016-03-01T13:59:39+13:00</published><updated>2016-03-01T13:59:39+13:00</updated><id>http://localhost:4000/trademe-flatmate-wanted</id><content type="html" xml:base="http://localhost:4000/trademe-flatmate-wanted">&lt;h3 id=&quot;key-words&quot;&gt;Key Words&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TODO&lt;/li&gt;
+  &lt;li&gt;MARK&lt;/li&gt;
+  &lt;li&gt;FIXME&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Key Words</summary></entry><entry><title type="html">Pygame</title><link href="http://localhost:4000/pygame" rel="alternate" type="text/html" title="Pygame" /><published>2016-03-01T13:59:39+13:00</published><updated>2016-03-01T13:59:39+13:00</updated><id>http://localhost:4000/pygame</id><content type="html" xml:base="http://localhost:4000/pygame">&lt;h3 id=&quot;key-words&quot;&gt;Key Words&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TODO&lt;/li&gt;
+  &lt;li&gt;MARK&lt;/li&gt;
+  &lt;li&gt;FIXME&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Key Words</summary></entry></feed>

@@ -6,7 +6,8 @@
 body {
   background: #fff;
   color: #222;
-  font-family: Inconsolata, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "Lekton", "Ubuntu", "Droid Sans Mono", Helvetica, Arial, sans-serif;
+  /*font-family: Inconsolata, Consolas, "Liberation Mono", Menlo, Courier, monospace;*/
   font-size:16px;
   line-height:1.5;
 
@@ -40,7 +41,8 @@ hr { height:1px; border:none; background-color:#ddd; }
 
 /* headings */
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Roboto Condensed', helvetica, sans-serif;
+  font-family: "Oswald", "Lekton", "Ubuntu", "Droid Sans Mono", Helvetica, Arial, sans-serif;
+  /*font-family: 'Roboto Condensed', helvetica, sans-serif;*/
   font-weight:400;
   color: #040404;
   margin: 1.618em 0 0.7em 0;
@@ -389,30 +391,30 @@ div.meta { margin:1em 0; }
         url(http://static.tumblr.com/9njdies/592l8jd17/reblogged.png);
   }
   div.meta .item.tags { padding-left:0; }
-    div.meta .tag {
-      margin-left:1em;
-      margin-right:0;
-      opacity:1.0;
-      background-image:
-          url(http://static.tumblr.com/9njdies/YO7l8jd2b/tag.png);
-    }
-    div.meta .tag:first-child { margin-left:0; }
-  div.meta .item.time {
+  div.meta .tag {
+    margin-left:1em;
+    margin-right:0;
+    opacity:1.0;
     background-image:
-        url(http://static.tumblr.com/9njdies/zkFl8jd2w/time.png);
-    float:right;
+        url(http://static.tumblr.com/9njdies/YO7l8jd2b/tag.png);
   }
-  div.meta .item.note-count {
-    float:right;
-    background-image:
-        url(http://static.tumblr.com/9njdies/ykvl8nmzz/note-count.png);
-  }
-  div.meta .item.dsq-comment-count {
-    float:right;
-    background-image:
-        url(http://static.tumblr.com/9njdies/dbPl8uqid/comment-count.png);
-    display:none;
-  }
+  div.meta .tag:first-child { margin-left:0; }
+div.meta .item.time {
+  background-image:
+      url(http://static.tumblr.com/9njdies/zkFl8jd2w/time.png);
+  float:right;
+}
+div.meta .item.note-count {
+  float:right;
+  background-image:
+      url(http://static.tumblr.com/9njdies/ykvl8nmzz/note-count.png);
+}
+div.meta .item.dsq-comment-count {
+  float:right;
+  background-image:
+      url(http://static.tumblr.com/9njdies/dbPl8uqid/comment-count.png);
+  display:none;
+}
 
 footer {
   color:#ccc;
@@ -420,31 +422,31 @@ footer {
   padding:0 0 1em 0;
   /*text-align: center;*/
 }
-  footer img.cc {
-    display: inline-block;
-    vertical-align: -0.2em;
-    border: none;
-    width:1em;
-    height:1em;
-    opacity:0.6;
-  }
-  footer a {
-    color: #333;
-    opacity: 0.3;
-  }
-  footer a:hover {
-    opacity:0.6;
-  }
-  footer a.cc {
-    background: none;
-    text-shadow: none;
-  }
-  footer a.cc:hover {
-    text-decoration: none;
-  }
-  footer a.cc:hover img.cc {
-    opacity:1;
-  }
+footer img.cc {
+  display: inline-block;
+  vertical-align: -0.2em;
+  border: none;
+  width:1em;
+  height:1em;
+  opacity:0.6;
+}
+footer a {
+  color: #333;
+  opacity: 0.3;
+}
+footer a:hover {
+  opacity:0.6;
+}
+footer a.cc {
+  background: none;
+  text-shadow: none;
+}
+footer a.cc:hover {
+  text-decoration: none;
+}
+footer a.cc:hover img.cc {
+  opacity:1;
+}
 
 
 /* small screens */
