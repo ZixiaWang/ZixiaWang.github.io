@@ -3,15 +3,25 @@ title: project
 permalink: /project/
 ---
 
-<header class="header">
-  <a class="logo" href="/">
-    <img src="/zi.png" width="32" height="32">
+<header class="header clearfix">
+  <a class="logo navigation navigation-left" href="/">
+    <svg width="35px" height="35px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-6" fill="#E83015">
+            <path d="M21.6076824,0.228047722 C21.6119146,0.889266108 22.1328486,1.57631946 23.1812597,2.14459903 L35.8324631,9.00204329 L7.94131298,36.3822984 L21.1450468,47.1542061 C22.3146121,48.1083642 24.0522461,49.1560729 25.7700571,49.9891793 C25.514489,49.996906 25.2579566,50.0007972 25.0005153,50.0007972 C11.1931119,50.0007972 0,38.8076853 0,25.000282 C0,12.3436377 9.40511204,1.88367506 21.6076824,0.228047722 Z M29.6195326,0.425603128 C41.2202966,2.59250997 50.0010305,12.7709708 50.0010305,25.000282 C50.0010305,38.0169003 40.0533193,48.7101062 27.3455328,49.8922638 C27.9218584,49.3966263 28.0157617,48.4504964 27.4878582,47.21128 L23.7504901,38.4380712 L37.6805068,9.00204329 L29.6195326,0.425603128 Z" id="logo-z"></path>
+        </g>
+    </g>
+    </svg>
+    <!--<img src="/zi.png" width="32" height="32">-->
   </a>
-  <nav class="navigation">
-      <a class="navigation-item" href="/project/">Projects</a>
+  <nav class="navigation navigation-right">
+      <a class="navigation-item" href="/">Blogs</a>
       <a class="navigation-item" href="/about/">About me</a>
   </nav>
 </header>
+
+<div class="banner">
+</div>
 
 <div class="white-div">
   <div class="img-container clearfix">
@@ -73,37 +83,43 @@ img {
 }
 
 .header {
-  height: 100px;
-  background-image: -webkit-linear-gradient(315deg, #399999, #66cc99);
-  padding: 60px 18%;
+  /*height: 500px;*/
+  background-color: #399999;
+  /*background-image: -webkit-linear-gradient(315deg, #399999, #66cc99);*/
+  padding: 2% 10%;
 }
 
 .logo {
-    margin: 0;
-    margin-right: 20px;
     display: inline-block;
+}
+
+.logo path {
+  fill: white;
 }
 
 .navigation {
-    vertical-align: bottom;
-    margin: 0 auto;
-    width: auto;
-    display: inline-block;
-
+  margin: 0px auto;
+  width: auto;
 }
 
-.navigation-item {
-    font-style: normal;
+.navigation-left {
+  float:left;
+}
+
+.navigation-right {
+  float:right;
+  padding: 15px 0px 0px;
+}
+
+a.navigation-item {
     font-family: 'Futura W01 Bold', 'Helvetica Neue', Helvetica, Arial;
-    font-weight: 400;
-    font-size: 12px;
-    font-size: 1.2rem;
-    line-height: 1.6;
-    -webkit-font-smoothing: antialiased;
+    font-size: 0.8em;
+    font-weight: bold;
+    letter-spacing: .2em;
     text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
     padding: .41667em .66667em;
-    color: #fff !important;
-    opacity: 1;
+    color: #fff;
 }
 
 .white-div {
@@ -162,8 +178,8 @@ img {
 }
 
 .laptop {
-  height: 500px;
-  width: 892px;
+  height: 450px;
+  width: 803px;
   background: rgba(0, 0, 0, 0) url("/images/macbook.png");
   background-repeat: no-repeat;
   background-size: cover;
